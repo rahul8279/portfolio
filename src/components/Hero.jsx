@@ -1,4 +1,5 @@
 import React from "react";
+import image from "../assets/Myimage.jpeg"
 import { motion, stagger } from "framer-motion";
 
 const Containervariants = {
@@ -23,7 +24,7 @@ function Hero() {
         <div className="w-full lg:w-1/2 ">
           <div className="flex justify-center lg:p-8">
             <motion.img
-              src="src/assets/Myimage.jpeg"
+              src={image}
               alt="rahul"
               width={650}
               height={650}
