@@ -2,7 +2,7 @@ import React from "react";
 import { PROJECTS } from ".";
 import { motion } from "framer-motion";
 
-function project() {
+function Project() {
   return (
     <div className="pb-4 ">
       <motion.h2
@@ -68,4 +68,4 @@ function project() {
   );
 }
 
-export default project;
+export default Project;
