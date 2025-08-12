@@ -1,5 +1,5 @@
-import chat from "../assets/chatApp.png";
-import interview  from '../assets/interview.png'
+import chat from "src/assets/chatApp.png";
+import interview  from 'src/assets/interview.png'
 export const PROJECTS = [
   {
     title: "INTERVIEW SPAR",

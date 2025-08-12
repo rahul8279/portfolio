@@ -1,6 +1,5 @@
 import React from "react";
 import image from "../assets/Myimage.jpeg"
-import resume from "public/resume.pdf"
 import { motion, stagger } from "framer-motion";
 
 const Containervariants = {
@@ -60,10 +59,9 @@ function Hero() {
             </motion.p>
             <motion.a
             variants={childVariants}
-              href={resume}
+              href="public/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
-              download
               className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10"
             >
               Download Resume
