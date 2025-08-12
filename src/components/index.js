@@ -2,7 +2,7 @@
 export const PROJECTS = [
   {
     title: "INTERVIEW SPAR",
-    image: "https://github.com/rahul8279/portfolio/blob/main/src/assets/chatApp.png?raw=true",
+    image: "https://github.com/rahul8279/portfolio/blob/main/src/assets/interview.png?raw=true",
     description:
       "Interview Spar is a full-stack web application designed to help users prepare for technical interviews through AI-generated mock questions and answers. Leveraging Google's Gemini API, the app provides personalized and realistic interview scenarios, covering various domains such as frontend, backend, and data structures.",
     technologies: [ "React", "tailwindcss", "Node.js","Gemini-api-key", "MongoDB"],
