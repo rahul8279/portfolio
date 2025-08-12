@@ -2,7 +2,7 @@
 export const PROJECTS = [
   {
     title: "INTERVIEW SPAR",
-    image: "/assets/interview.png",
+    image: "https://github.com/rahul8279/portfolio/blob/main/src/assets/chatApp.png?raw=true",
     description:
       "Interview Spar is a full-stack web application designed to help users prepare for technical interviews through AI-generated mock questions and answers. Leveraging Google's Gemini API, the app provides personalized and realistic interview scenarios, covering various domains such as frontend, backend, and data structures.",
     technologies: [ "React", "tailwindcss", "Node.js","Gemini-api-key", "MongoDB"],
@@ -11,7 +11,7 @@ export const PROJECTS = [
   },
   {
     title: "CHATTY",
-    image: "/assets/chatApp.png",
+    image: "https://github.com/rahul8279/portfolio/blob/main/src/assets/chatApp.png?raw=true",
     description:
       "A full-stack real-time chat application that enables seamless communication between users through text messages, group chats, and media sharing. Built with a modern tech stack and real-time socket connections, the app offers a fast and interactive user experience.",
     technologies: ["React","Tailwindcss","Nodejs" ,"Socket-io","MongoDB"],
