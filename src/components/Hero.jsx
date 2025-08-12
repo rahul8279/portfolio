@@ -59,7 +59,7 @@ function Hero() {
             </motion.p>
             <motion.a
             variants={childVariants}
-              href="public/resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10"
