@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Technologies from "./components/Technologies";
-import Project from "./components/project";
+import Project from "./components/Project.jsx";
 import Contact from "./components/Contact";
 
 const App = () => {
